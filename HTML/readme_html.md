@@ -35,3 +35,13 @@ Correct the problems on this page **exercise_four_html.md** and
 - explain 'async' used in the script tags. Do this in a comment.
 - *hint* There are images on this page
 - what is the purpose of the ``alt`` attribute in ``img`` tag.
+
+
+## Exercise Five
+
+Find,explain and Correct the problems on this page **exercise_five_html**
+- the Audio
+- The video
+
+and  explain what the control attribute means.
+List out 3 other attributes and explain them, in relation to audio and video tags.
